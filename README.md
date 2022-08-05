@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/glquhwhu0gjracho?svg=true)](https://ci.appveyor.com/project/laramuraveva/1-2-api-ci-excersice3)gi
